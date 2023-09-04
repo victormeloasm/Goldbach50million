@@ -112,3 +112,7 @@ Overall, multi-threading can significantly accelerate the Goldbach Conjecture co
 ![Goldbach Conjecture](Goldbach.png)
 
 50 millions in 1097s using Multi-thread.
+
+Here it's the .txt file with the first 50 millions numbers.
+
+https://drive.google.com/file/d/1kPJ-WdNLu1pIk0UJgoFikqDgosYhuDYi/view?usp=sharing
